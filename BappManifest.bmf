@@ -1,6 +1,7 @@
 Uuid: 5da470c526ea4661a82187ec3e0f94aa
 ExtensionType: 3
 Name: What-The-WAF
+RepoName: what-the-waf
 ScreenVersion: 1.4 (beta)
 SerialVersion: 1
 MinPlatformVersion: 0
